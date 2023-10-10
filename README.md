@@ -35,9 +35,9 @@ I am a student major in software engineering from China.
 <a href="#"><img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"></a>
 
 ## 📖Current learning
-- Machine Learning
-- Blockchain
+- Computer Graphics
 - Unreal Engine 5
+- Physics Simulation
 
 ## 📈 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edenlia&theme=github_dark)
