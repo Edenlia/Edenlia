@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=70&duration=3000&pause=1000&color=A2B1BC&background=2B2B2B&center=true&vCenter=true&width=1000&height=150&lines=Hey+there!+%F0%9F%91%8B;I+am+Edenlia.)](https://git.io/typing-svg)
 ## 👀 About me
-I am a student major in software engineering from China.
+I am a student major in computer science in USC.
 
 ## 🔧 Languages and Tools
 <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
