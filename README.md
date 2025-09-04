@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=70&duration=3000&pause=1000&color=A2B1BC&background=2B2B2B&center=true&vCenter=true&width=1000&height=150&lines=Hey+there!+%F0%9F%91%8B;I+am+Edenlia.)](https://git.io/typing-svg)
 ## 👀 About me
-I am a Computer Science graduate from the University of Southern California, specializing in Game Development. Currently, I'm in Game Industry, and interested in Game Development, Computer Graphics and Mathematics
+I am a Computer Science (Game Development) graduate from the **University of Southern California**. Currently, I'm in Game Industry, and interested in **Game Development, Computer Graphics and Mathematics**
 
 ## 🔧 Languages and Tools
 <a href="#"><img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"></a>
